@@ -1,0 +1,3 @@
+Nombres: Jerson Apellidos: Silva Nivel de estudio: Titulo profesional ¿Conocimientos en programación?: SI ¿Experiencia laboral?: SI Comentar experiencia: fsadsadNombres: Jerson Apellidos: Silva Nivel de estudio: Titulo profesional ¿Conocimientos en programación?: NO ¿Experiencia laboral?: SI Comentar experiencia: esta
+Nombres: dsfdsf Apellidos: fdsf Nivel de estudio: Titulo tecnico o tecnologo ¿Conocimientos en programación?: NO ¿Experiencia laboral?: SI Comentar experiencia: dsadsad
+Nombres: hgfhhjgfjgfh Apellidos: jgjgfh Nivel de estudio: Titulo de bachiller academico ¿Conocimientos en programación?: NO ¿Experiencia laboral?: NO Comentar experiencia: hgfhgfhhgfj
